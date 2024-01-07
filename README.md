@@ -3,25 +3,6 @@
 ## 🌐 Live Demo
 Check out the live demo of the project [here](your-live-demo-link).
 
-## 📖 Table of Contents
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Data Science Workflow](#data-science-workflow)
-  - [Data Collection and Cleaning](#data-collection-and-cleaning)
-  - [Database Design and Management](#database-design-and-management)
-  - [Feature Engineering](#feature-engineering)
-  - [Exploratory Data Analysis (EDA) and Visualization](#eda-and-visualization)
-  - [Machine Learning Models](#machine-learning-models)
-- [AWS Deployment](#aws-deployment)
-- [MLOps Integration](#mlops-integration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ## 🛠 Project Overview
 The primary objective of this project is to enhance the user experience on our real estate platform by infusing data-driven decision-making into the property search process. We've used a comprehensive dataset, comprising details of flats and individual homes, as the foundation for implementing advanced analytics and machine learning techniques.
 
